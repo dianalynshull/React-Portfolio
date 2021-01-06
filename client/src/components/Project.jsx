@@ -1,5 +1,4 @@
 import { Container, Row, Col, Card } from 'react-bootstrap';
-import './Project.css';
 
 const Project = (projectList) => {
   return (

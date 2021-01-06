@@ -1,5 +1,4 @@
-import React from 'react';
-import { Container, Row, Image } from 'react-bootstrap'
+import { Container, Row, Image } from 'react-bootstrap';
 
 const Homepage = () => {
   return (

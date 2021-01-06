@@ -32,21 +32,28 @@ p {
   background-color: rgba(52, 58, 64, 0.6)!important;
   margin-bottom: 80px!important;
 }
+.navbar-dark {
+  background-color: rgba(52, 58, 64, 0.6)!important;
+}
+.card {
+  background-color: transparent!important;
+  border: none!important;
+}
+.card-title {
+  text-align: center;
+}
+.copyright, .far {
+  color: #4F575E;
+  font-weight: lighter;
+}
 
 @media (max-width: 767px) {
   .navbar-brand {
     font-size: 2em!important;
   }
-
-  /* .contact {
-    margin: 0;   
-  } */
   h1 {
     font-size: 1.75em!important;
   }
-  /* h3 {
-      font-size: 1.5em!important;
-  } */
   img.profile {
     padding-top: 10px;
     padding-bottom: 20px;
@@ -54,9 +61,6 @@ p {
 }
 
 @media (min-width: 767px) {
-  /* .about-me {
-      text-align: left;
-  } */
   .navbar-brand {
     font-size: 2em!important;
   }
@@ -72,6 +76,7 @@ p {
     padding: 10px 35px 5px 0px;
   }
 }
+
 @media (min-width: 992px) {
   img.profile {
     width: 40%;

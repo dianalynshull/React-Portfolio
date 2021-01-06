@@ -29,7 +29,6 @@ const Contact = () => {
                 <Form.Label>Name</Form.Label>
                 <Form.Control type="text" placeholder="Name" />
               </Form.Group>
-
               <Form.Group>
                 <Form.Label>Email</Form.Label>
                 <Form.Control type="email" placeholder="Email" />
