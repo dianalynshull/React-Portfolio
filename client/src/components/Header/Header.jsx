@@ -5,8 +5,8 @@ import './Header.css';
 const Header = () => {
   return (
     <>
-      <Navbar bg="dark" expand="md" className="navbar-dark">
-        <Navbar.Brand className="navbar-brand" href="/">Diana Shull</Navbar.Brand>
+      <Navbar expand="md" className="navbar-dark">
+        <Navbar.Brand href="/">Diana Shull</Navbar.Brand>
         <Navbar.Toggle aria-controls="basic-navbar-nav" />
         <Navbar.Collapse id="basic-navbar-nav">
           <Nav className="ml-auto">
