@@ -4,14 +4,14 @@ import { Container, Row, Image } from 'react-bootstrap'
 const Homepage = () => {
   return (
     <>
-      <Container className="section justify-content-center mt-4 p-4">
+      <Container className="section navbar-dark mt-4 p-4">
         <Row className="px-3 justify-content-start">
           <h1 className="m-auto">About Me</h1>
         </Row>
-        <Row className="px-3 justify-content-start">
+        <Row className="px-3">
           <hr />
         </Row>
-        <Image src="./img/profile.jpg" fluid />
+        <Image className="profile d-flex justify-content-center" src="./img/profile.jpg" fluid />
         <div>
           <p>
             A technology enthusiast, I have been fascinated by computers since my dad helped me build my first computer. He worked hard to ensure that I would be knowledgable in a future where coding and tech would be integrated everywhere.
