@@ -24,6 +24,7 @@
   },
   "homepage": "https://github.com/dianalynshull/React-Portfolio#readme",
   "dependencies": {
+    "bootstrap": "^4.5.3",
     "concurrently": "^5.3.0",
     "express": "^4.17.1",
     "react-bootstrap": "^1.4.0"
