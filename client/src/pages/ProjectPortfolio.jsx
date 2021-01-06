@@ -42,7 +42,7 @@ const ProjectPortfolio = () => {
       title: 'Daily Planner',
       repo: 'https://github.com/dianalynshull/Daily-Planner',
       link: 'https://dianalynshull.github.io/Daily-Planner',
-      img: './img/password-generator.png'
+      img: './img/work-day-scheduler.png'
     }
   ]
     return (
