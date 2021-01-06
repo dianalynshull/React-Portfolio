@@ -6,7 +6,7 @@ const Footer = () => {
     <>
       <Navbar bg="light" expand="md" className="fixed-bottom">
           <Nav className="m-auto">
-            <Nav.Link href="/homepage"><i class="far fa-copyright"></i><span class="copyright"> Copyright</span></Nav.Link>
+            <Nav.Item><i className="far fa-copyright"></i><span className="copyright"> Copyright</span></Nav.Item>
           </Nav>
       </Navbar>
     </>
