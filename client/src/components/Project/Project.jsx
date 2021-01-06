@@ -1,7 +1,7 @@
 const Project = () => {
   return (
     <div>
-      HELLO
+      This is the project component
     </div>
   );
 }

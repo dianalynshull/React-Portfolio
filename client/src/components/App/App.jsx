@@ -7,7 +7,7 @@ const App = () => {
   return (
     <div>
       <Header />
-      HELLO
+      This is the App component
       <Footer />
     </div>
   );

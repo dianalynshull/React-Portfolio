@@ -1,7 +1,7 @@
 const Header = () => {
   return (
     <div>
-      HELLO
+      This is the header component
     </div>
   );
 }
